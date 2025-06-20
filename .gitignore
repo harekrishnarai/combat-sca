@@ -1,0 +1,6 @@
+.env
+baselines/
+*.tar.gz
+
+*.json
+Report.html
