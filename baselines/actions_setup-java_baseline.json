@@ -9,7 +9,7 @@
   "LICENSE": "7d070f6b64d9bcc530fe99cc21eaaa4b3c364e0b2d367d7735671fa202a03b32",
   "jest.config.js": "9599f7519203cd02d1420e80e9f88cf99f732be8b85393e8ff3fa883d0e44646",
   ".prettierrc.js": "71d0a57d10363b29640a3f19b4121f8aceea06374e4d6f84e153afdd26776abe",
-  "package-lock.json": "52e96d3d33d269aaaa5e80ba508fd9bb1f980b0f82119fef5745a66572f50b21",
+  "package-lock.json": "d12f5dc6a0423931dd798940ba2d67ab34dc2de808ae0a10e47ef1360c8ff4bb",
   ".gitignore": "0824182ae11bcd9ce95691c18debe39eb366f63e53bbda7d03b101e7c6621cb5",
   ".eslintrc.js": "9320ea45bddd3669c561a8073d204a10faa71942741533fa955c434e9809b1c4",
   ".eslintignore": "782de3915747b1b0b26a5bcd261e76ef2a7b13b3fecf73f4163354179c0208dd",
@@ -132,7 +132,7 @@
   ".licenses/npm/tunnel.dep.yml": "d31e076abf1fa9783dcdc37e27753f6bd9a61f1a5935676475c39ff68297ce78",
   ".licenses/npm/typescript.dep.yml": "6b24bea1b8b395992a2edfb33f08f5318278b7e4edd64060adc6609128348c31",
   ".licenses/npm/sax.dep.yml": "177e4eeb327cef2f9e5adaee50a8f1832f87362b9ff7663f01a64c3f39ec863b",
-  ".licenses/npm/undici.dep.yml": "36424ef4945e8c93bb18c0f452e69c165c7fce5fd4880f37195b33dd80e6a87a",
+  ".licenses/npm/undici.dep.yml": "5cefa4e129348345297f3e602d639aaccdfa052069a744cfe8512a7c256faac7",
   ".licenses/npm/minimatch.dep.yml": "54c2756044325cafe8b5b4514135b2dab840b42c4edab5cbeed05e6714dc2379",
   ".licenses/npm/balanced-match.dep.yml": "6e9aeb4586d146f78d07a455d00144bcc0e9dc959685e3ac8493a445f1625111",
   ".licenses/npm/abort-controller.dep.yml": "66b012c112da8b51313ff669bc43ddde1ca41cd664dc6f2246e50c0e695de8f8",
@@ -192,6 +192,6 @@
   ".github/workflows/release-new-action-version.yml": "81dacf2765974ff7d2f711c1b97044642cab571434416388a9dc0bc9b50117a7",
   ".github/workflows/update-config-files.yml": "e771655c18e2e068b122f2ad57a822296905137879d47879814af7122a99acfd",
   ".github/workflows/e2e-publishing.yml": "528cbdcdaa9bc2b6b7064228c0161ba18efe09bbb55060d463ff2a67585fd0c6",
-  "dist/setup/index.js": "18d63cec449a841cf538ba84fd9c9618f0f45e98ec419c931f9b6abe227a5bf9",
-  "dist/cleanup/index.js": "9dce4624185740a50d97edac38273a9b332757639e987c3c9a14e4b6331974d0"
+  "dist/setup/index.js": "e72966d79eb6dcd76ced647ded3f759e41e675f1aecfe3bc1c96ec508862fd3d",
+  "dist/cleanup/index.js": "c9001c1123f9d120ca455482803bd6259822170cbda0761ee514a3d45056fcbb"
 }
