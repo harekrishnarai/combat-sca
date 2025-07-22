@@ -46,7 +46,7 @@
   "src/cache-save.ts": "77d2dfb954e319eadac2b9bb495a5d7efc91ef36c03ecb9d3bf72428c2755b96",
   "src/find-graalpy.ts": "7c3d13504c94944c30c852e9f8db6979f075552b0c00ba9de8ba77a8db29b1dd",
   "src/install-graalpy.ts": "21aa54357abe35f12acb5922736995f2549db2fc1b9223ab2dad6168a111fefd",
-  "src/find-pypy.ts": "2ba36198bdb468b2e977bdc32507f663c90351e898c5f7f8d3ffa4c324ac2006",
+  "src/find-pypy.ts": "04ba496b20bec82806322af77e90d511ecb322e14c4c4f62f68e40629a290f6d",
   "src/install-pypy.ts": "25c01c3e11fcc2179f888dad68fff962cab15cd4f01d6e466b449c2d463dd0b8",
   "src/install-python.ts": "256a4dc37531d94f90311a5733f16089bafbb84754b5512e5dece78c836a4521",
   "src/utils.ts": "16b8545c58c263ba8097df33b65edd6b2b79009b9e1858fd59f0492dcdd1dbc6",
@@ -140,6 +140,6 @@
   ".github/workflows/release-new-action-version.yml": "207029d6f9d83acec52b3cc4efb3d58f4b5bcc845e7bbf969f7623043c4a59da",
   ".github/workflows/update-config-files.yml": "e771655c18e2e068b122f2ad57a822296905137879d47879814af7122a99acfd",
   ".github/workflows/test-pypy.yml": "61ae4160be0635697683dc19e96ec14d5ee8415506e65534085dbfed6544e20a",
-  "dist/setup/index.js": "902921330c7e87e14d1afa6eb9c58af8ebcc0b40419327ce93882f850ff5d705",
+  "dist/setup/index.js": "5712c1e9aa333ef64f6de70c8da1f572eee6f8fef917abae54df015e115c4de7",
   "dist/cache-save/index.js": "abb8a49210dbf5506092452b24ad76025ab79a1cf840315d6612db4119bfadeb"
 }
