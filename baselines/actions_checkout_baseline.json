@@ -14,7 +14,7 @@
   "package-lock.json": "8db9b3d9236032153dbec34a878b7d6697bab2f09ce4428485252b9a3055d028",
   ".gitignore": "1b95addfb74fdcf088a8cb2f30ab12be506684d3dfbe93a3ff566df0fdb139b9",
   ".eslintignore": "c13299690221b5db31303814a2cc340128fefd0e9e0be2c426d5ee41b88e8cf2",
-  "CODEOWNERS": "af736760a0bd4e15eff574fcef651df975566ea797796bedb9fdfeea4f5413e8",
+  "CODEOWNERS": "0f5c192e16c39e79fd1175fb25e204ee126cbe9a8c2628d1f57e6c3723cfb3ba",
   ".licensed.yml": "d6264ce95ed20c691e3e2b82ea9ebde054d90e16961afc58263e89cebeceb1d4",
   "src/retry-helper.ts": "bf914b0bab34653fecb321d02f20cd96cdeef71d70857dbfe8278f23ad41b4af",
   "src/git-directory-helper.ts": "a7470299ede7aa2b0bc394d0ffd1cf2ed57cb7068eb1cc4f01b5d5dd390392db",
