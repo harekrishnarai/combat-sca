@@ -57,7 +57,7 @@
   ".github/workflows/codacy-analysis.yml": "aec3f5316d08cbfe15977d6b3a533537fe7c208bbc01e82e007e0ede36edafac",
   ".github/workflows/matrix-example.yml": "b535458ccfc14b008993f6f69de4b7184a9b3a14e155f7fae425da23097f6a50",
   ".github/workflows/issue-comment-job-example.yml": "3bfe92b6beb17c338d5995a3dcb43fd3e180bd5be764d485d52d9f34d49bb1a6",
-  ".github/workflows/test.yml": "87c6601b87ce0670e28d386b01e9aa868d2045cfa72741be153dc4b876372ba0",
+  ".github/workflows/test.yml": "52d651b4a9a8ce2b397946bbc7b38fd5cb3b90f23d520f76f2d8d3b8e0e78279",
   "dist/index.js.map": "b17dc1be3ab42483980a4372c9a54206cbcb159b85612d1eb9b07cc14adfbbed",
   "dist/index.js": "b90b163e43cebaa39579f4752edd32689dd5a5a86fc5683e556b52017acf3149",
   "dist/licenses.txt": "6338a298f93af51099a680874e77770f581adf853170dde34070ebd928768190",
