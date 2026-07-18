@@ -1,17 +1,17 @@
 {
   ".gitignore": "1b95addfb74fdcf088a8cb2f30ab12be506684d3dfbe93a3ff566df0fdb139b9",
   ".licensed.yml": "a258ad82cd32560d7abe16414799c3b83dead2c6205ecdf5a978e72610dfdf4c",
-  "package.json": "73d2d3ae8651f40b15f2de80826a8735def8d99b0e809d0b270cff6771241f4b",
+  "package.json": "8b1127cee8fbd48ed687737f631f6e49a767a8e9484a87a7fb8fe913118d52c4",
   "jest.config.ts": "3af8efc2d1ecd2071c78ac694623e6dea29322fd5326e823e01f305917f1a604",
   "README.md": "3df94d90d0df6df603a549cc779bc6cab4b21f8deef82eb6fef1f4d88b788174",
   "tsconfig.json": "977acce4e3dd511c6a124b0b334b229669696eae14c1db5e4d37b0f5f6cd7c5e",
   "action.yml": "d59219cb79590abdb877deaa14e3b65a00c05318bf5a6f3b989b9162b5d08c35",
-  "CHANGELOG.md": "7e85d58c4428001b080717c981fc60d6631d47f2d9cba6af5674fc354c58637e",
+  "CHANGELOG.md": "168134e849a1742ae0d0c2f59362555149a7d3a5e8b855ce44e6456e5e0d67c1",
   "CONTRIBUTING.md": "789e2a6d8d533ab4bfb487d9b73c2f8fa0130addcb215be0d0d66cc39c73e236",
   "eslint.config.mjs": "094e9d2c6f9f63ffd94292a9c6fcb30c0288b76a9a3d89a8f46230d72a355349",
   ".prettierignore": "f3ee558da89adcfdc09e316edbc37c51620003e253de6fddd7a4e7347e3cde68",
   ".prettierrc.json": "e2ad190321c579eb64335d3f24fe34f67823fa036cad1a0b199a1c6075ed22b8",
-  "package-lock.json": "ca83785f7dd9daf2c4a45121697f04270565ba7258d47759581eeb8fd5ab8b0e",
+  "package-lock.json": "4f8c64aa3807a20365c0b9c1ef4c4639549146a1ebd9ebe379e8fde1dff7938e",
   ".gitattributes": "679aa4786736d2f6ff0bd41d4260d1490bc6caa7151fff469498f774944ddd6e",
   "LICENSE": "3e855ffa704114a51628ef8f0bf3aeb41728adf9d9070e263bf58aa5640b0eb5",
   "CODEOWNERS": "0f5c192e16c39e79fd1175fb25e204ee126cbe9a8c2628d1f57e6c3723cfb3ba",
@@ -47,7 +47,7 @@
   "src/git-source-settings.ts": "3e50f8362726e966573996264e919ad527b50bb5530d138009e483990303b725",
   "src/ref-helper.ts": "c6691be71e698dffb0d7ddeb7eb7363ffa50250df376ec5e55a63d4a86af4d33",
   "src/url-helper.ts": "aaa5318d8a20f4cb96e80066b38776b202ab2e040795a6a914324c4875bece73",
-  "src/git-command-manager.ts": "00f2f83f359d2b13b3015dc05fedd9832ec75d8c0206b5e33095d023199fd91a",
+  "src/git-command-manager.ts": "39ba33fed160031cca20f6481fc25e65803cbf4c0a711ce9604ac0d139e3e7e0",
   "src/git-source-provider.ts": "aaad769029fde263ba2c9fd26287ada2eed4d7d0c89676a04b78c0bfd52dc7a2",
   "src/github-api-helper.ts": "b483b4cdd5ae1e6a156405cf579ecd4390cf1c10727c4eac73f1b69fa64af1a1",
   "src/input-helper.ts": "6ab98efe486f7e1e107e678ee866ea8d698a042f4419e0346954698c8b7203d5",
@@ -99,5 +99,5 @@
   ".github/workflows/update-main-version.yml": "ff9a1b4edd41dc3a31f0923a34fcb008d1d273033254d05ddf004488f528cd60",
   "dist/package.json": "3ca9d4afd21425087cf31893b8f9f63c81b0b8408db5e343ca76e5f8aa26ab9a",
   "dist/problem-matcher.json": "31430dcd64d833e6baa706d65803cb80ee2fb6ac20a35267b086218bbc210cb7",
-  "dist/index.js": "eec75896a5a1421f77de562a973c92fc1655ff80fbdb9b425188506b36808afd"
+  "dist/index.js": "b604bf1c08a471aedf51ddddbd3e8d03041683db270692d66cd1b4b097457818"
 }
