@@ -407,7 +407,7 @@
   ".github/workflows/__upload-sarif.yml": "7e37487e52fe42956705d55cfed443e836462148143327cf456b0368dfe1a376",
   ".github/workflows/__linux-arm64.yml": "223954cedc06240e1af854ec8c0211d2a730f34441972b060696fa5ce2cbc50a",
   ".github/workflows/__diagnostics-without-db.yml": "029b6bf674c91681d12858f608a668297b003fbaaa6d6138f19367d160c56da5",
-  ".github/workflows/pr-checks.yml": "7c52ac0c83be60a7027c345dca792ffe894e43de8f1a10792d4d3ef442bcd0c6",
+  ".github/workflows/pr-checks.yml": "4b18ba4d324b9a545589f4facf740043b471f373e4658ebc47330cb807df90fa",
   ".github/workflows/__split-workflow.yml": "e658c7277bd1abfac4e5ec5dee79ddda540501a87efe6e1e0a2387e499ca1ed7",
   ".github/workflows/pr-dequeued.yml": "34dbc94428b13c0b80166e5afbc36247b3f9985adbaf0002bbd8b678e10fbaa3",
   ".github/workflows/__autobuild-working-dir.yml": "c1781add8c2a7cf589efaf4166a0d94784b2bcdbccbb0791cd0572e39d287e5e",
